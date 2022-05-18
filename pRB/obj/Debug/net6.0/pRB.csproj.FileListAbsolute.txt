@@ -1,0 +1,15 @@
+C:\Users\mrsli\source\repos\pRB\pRB\bin\Debug\net6.0\pRB.exe
+C:\Users\mrsli\source\repos\pRB\pRB\bin\Debug\net6.0\pRB.deps.json
+C:\Users\mrsli\source\repos\pRB\pRB\bin\Debug\net6.0\pRB.runtimeconfig.json
+C:\Users\mrsli\source\repos\pRB\pRB\bin\Debug\net6.0\pRB.dll
+C:\Users\mrsli\source\repos\pRB\pRB\bin\Debug\net6.0\pRB.pdb
+C:\Users\mrsli\source\repos\pRB\pRB\obj\Debug\net6.0\pRB.csproj.AssemblyReference.cache
+C:\Users\mrsli\source\repos\pRB\pRB\obj\Debug\net6.0\pRB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrsli\source\repos\pRB\pRB\obj\Debug\net6.0\pRB.AssemblyInfoInputs.cache
+C:\Users\mrsli\source\repos\pRB\pRB\obj\Debug\net6.0\pRB.AssemblyInfo.cs
+C:\Users\mrsli\source\repos\pRB\pRB\obj\Debug\net6.0\pRB.csproj.CoreCompileInputs.cache
+C:\Users\mrsli\source\repos\pRB\pRB\obj\Debug\net6.0\pRB.dll
+C:\Users\mrsli\source\repos\pRB\pRB\obj\Debug\net6.0\refint\pRB.dll
+C:\Users\mrsli\source\repos\pRB\pRB\obj\Debug\net6.0\pRB.pdb
+C:\Users\mrsli\source\repos\pRB\pRB\obj\Debug\net6.0\pRB.genruntimeconfig.cache
+C:\Users\mrsli\source\repos\pRB\pRB\obj\Debug\net6.0\ref\pRB.dll
